@@ -18,4 +18,4 @@ Below is an example figure created using the script and subsequent customization
 
 
 Contact 📬
-For any further queries, please reach out to us at your-email@domain.com.
+For any further queries, please reach out to us at pedro.mondaca@usm.cl; pedro.mondaca@pucv.cl
